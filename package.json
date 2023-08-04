@@ -1,0 +1,15 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "QiitaやZennに投稿する用のマークダウンファイルの保存場所兼公開場所",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.144"
+  }
+}
